@@ -14,7 +14,7 @@ public class Exercise4 {
         double b = scanner.nextDouble();
 
         if (a > b) {
-        System.out.println("Болшее число: " + a);
+            System.out.println("Болшее число: " + a);
         } else {
             System.out.println("Болшее число: " + b);
         }
